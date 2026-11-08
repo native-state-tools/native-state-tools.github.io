@@ -1,6 +1,8 @@
 # Native State Tools
 
-This repository is the homepage for Native State Tools, a suite of private, local-first web tools. It is a static site made of plain HTML and CSS. There is no build step.
+Native State Tools makes practical, local-first tools for everyday people, built around privacy and user control.
+
+This repository hosts the suite homepage. It is a static site made of plain HTML and CSS. There is no build step.
 
 The live site is nativestatetools.com.
 
